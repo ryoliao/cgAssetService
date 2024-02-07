@@ -1,0 +1,2 @@
+# cgAssetService
+CraftGate Asset Service
