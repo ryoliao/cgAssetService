@@ -5,6 +5,12 @@
 - [web application](https://cg.6qn.cc)
 
 ## Versions:
+v0.2.0-alpha.2
+- Added a version check page.
+- Optimized memory usage in the web application.
+- Map ordered by number.
+- Updated anime UI bounding calculation.
+
 v0.2.0-alpha.1
 - The initial version includes features for graph view, anime view, and map view.
 
