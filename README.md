@@ -5,6 +5,11 @@
 - [web application](https://cg.6qn.cc)
 
 ## Versions:
+v0.2.0-alpha.3
+- Added a detail button for the map view, which can show obstacles and warp positions.
+- Added a minimap from PUK2.
+- Updated map name translations.
+
 v0.2.0-alpha.2
 - Added a version check page.
 - Optimized memory usage in the web application.
