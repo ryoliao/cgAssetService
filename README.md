@@ -5,6 +5,10 @@
 - [web application](https://cg.6qn.cc)
 
 ## Versions:
+v0.2.3-b1
+- Added no. 38xxx maps.
+- Updated map name translations.
+
 v0.2.2-b1
 - Added archive toolset. usage:
    ```
