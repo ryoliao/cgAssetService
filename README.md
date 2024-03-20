@@ -5,6 +5,9 @@
 - [web application](https://cg.6qn.cc)
 
 ## Versions:
+v0.2.3-b2
+- Fix missing SE maps.
+
 v0.2.3-b1
 - Added no. 38xxx maps.
 - Updated map name translations.
